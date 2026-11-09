@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.7.5
+
+### Repository
+
+- Repository renamed from `enigma2-remote-hacs` to `enigma2-remote` (required for the default HACS repository); all links updated
+
+---
+
 ## v1.7.4 - Stable: QWERTZ keyboard, translated editor, HACS validation
 
 ### Lovelace Card

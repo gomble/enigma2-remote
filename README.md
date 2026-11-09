@@ -9,8 +9,8 @@
 # Enigma2 Remote Control Integration for Home Assistant
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://github.com/hacs/integration)
-[![GitHub Release](https://img.shields.io/github/release/gomble/enigma2-remote-hacs.svg)](https://github.com/gomble/enigma2-remote-hacs/releases)
-[![License](https://img.shields.io/github/license/gomble/enigma2-remote-hacs.svg)](LICENSE)
+[![GitHub Release](https://img.shields.io/github/release/gomble/enigma2-remote.svg)](https://github.com/gomble/enigma2-remote/releases)
+[![License](https://img.shields.io/github/license/gomble/enigma2-remote.svg)](LICENSE)
 
 <a href="https://www.buymeacoffee.com/gomble" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174">
@@ -52,7 +52,7 @@ A complete Home Assistant integration for controlling Enigma2 set-top boxes (e.g
 2. Click **Integrations**
 3. Click the three-dot menu (⋮) in the top-right corner
 4. Select **Custom repositories**
-5. Add the URL: `https://github.com/gomble/enigma2-remote-hacs`
+5. Add the URL: `https://github.com/gomble/enigma2-remote`
 6. Category: **Integration**
 7. Click **Add**
 8. Search for "Enigma2 Remote Control" and click **Download**
@@ -60,7 +60,7 @@ A complete Home Assistant integration for controlling Enigma2 set-top boxes (e.g
 
 ### Manual Installation
 
-1. Download the latest version from [Releases](https://github.com/gomble/enigma2-remote-hacs/releases)
+1. Download the latest version from [Releases](https://github.com/gomble/enigma2-remote/releases)
 2. Extract the archive
 3. Copy the folder `custom_components/enigma2_remote` to `<config>/custom_components/`
 4. Restart Home Assistant
@@ -330,8 +330,8 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 For questions or issues:
 
-- 🐛 [Create an Issue](https://github.com/gomble/enigma2-remote-hacs/issues)
-- 💬 [Discussions](https://github.com/gomble/enigma2-remote-hacs/discussions)
+- 🐛 [Create an Issue](https://github.com/gomble/enigma2-remote/issues)
+- 💬 [Discussions](https://github.com/gomble/enigma2-remote/discussions)
 
 ## ☕ Buy Me a Coffee
 

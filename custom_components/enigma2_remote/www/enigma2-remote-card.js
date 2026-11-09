@@ -1091,7 +1091,7 @@ class Enigma2RemoteCardEditor extends HTMLElement {
       </div>
       <p class="footer">
         More options via
-        <a href="https://github.com/gomble/enigma2-remote-hacs" target="_blank" rel="noopener">
+        <a href="https://github.com/gomble/enigma2-remote" target="_blank" rel="noopener">
           Code Editor
         </a>
       </p>
@@ -1126,5 +1126,5 @@ window.customCards.push({
   name: 'Enigma2 Remote Card',
   description: 'Remote control card for Enigma2 devices via OpenWebif',
   preview: false,
-  documentationURL: 'https://github.com/gomble/enigma2-remote-hacs',
+  documentationURL: 'https://github.com/gomble/enigma2-remote',
 });
