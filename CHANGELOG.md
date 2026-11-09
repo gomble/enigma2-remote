@@ -1,5 +1,25 @@
 # Changelog
 
+## v1.7.4 - Stable: QWERTZ keyboard, translated editor, HACS validation
+
+### Lovelace Card
+
+- QWERTZ keyboard panel with one-shot Shift key, toggled via keyboard icon
+- T9 multi-tap keyboard logic for Enigma2 input fields
+- Visual editor fully translated (de, en, es, fr, it, nl, pl, pt, ru, tr, zh, ar)
+- Show Media Buttons toggle and record button
+
+### Integration
+
+- Letter key codes A-Z, Space, Backspace, Enter, Shift, Dot, Comma, Minus added to `KEY_CODES`
+
+### Repository
+
+- Added HACS and hassfest validation workflow
+- Cleaned up `hacs.json` for integration category
+
+---
+
 ## v1.7.4b4 - BETA: QWERTZ keyboard panel
 
 > **Beta release** — not served as default in HACS.
